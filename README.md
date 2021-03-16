@@ -1,2 +1,2 @@
 # OpticalClocks
-A written report and Powerpoint presentation optical atomic clocks.
+A written report and Powerpoint presentation on optical lattice atomic clocks.
